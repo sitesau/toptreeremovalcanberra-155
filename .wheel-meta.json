@@ -1,0 +1,22 @@
+{
+  "wheel_id": 721,
+  "structure": "umbrella",
+  "slug": "toptreeremovalcanberra-155",
+  "project": "tree-removal-canberra-myths-f84282688a0606f80ade9cc782bb0bdb5c4",
+  "parent_t1_ref": "toptreeremovalcanberra-012",
+  "node_role": "buffer",
+  "money_target": "toptreeremovalcanberra.com.au",
+  "primary_kw": "tree removal canberra myths",
+  "intended_url": "https://aumedia.neocities.org/tree-removal-canberra-myths-f84282688a0606f80ade9cc782bb0bdb5c4/",
+  "tier": "T2",
+  "writeback_nonce": "c55948083fe590e5",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/tree-removal-canberra-012/",
+      "anchor": "this overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
